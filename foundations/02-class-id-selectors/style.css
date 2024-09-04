@@ -1,0 +1,20 @@
+#second {
+  color: blue;
+  font-size: 36px;
+}
+
+#fourth {
+  /* light green! */
+  background-color: rgb(144, 238, 144);
+  font-weight: bold;
+}
+
+.slightly-bigger {
+  font-size: 24px;
+}
+
+.odd {
+  /* light pink! */
+  background-color: rgb(250, 192, 203);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
